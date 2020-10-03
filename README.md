@@ -1,4 +1,4 @@
-# SAyHello v1.0
+# SAyHello 
 ## Author: github.com/thelinuxchoice/sayhello
 ## Twitter: twitter.com/linux_choice
 
@@ -21,7 +21,7 @@ Usage of SayHello for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/sayhello
+git clone https://github.com/CodingBuster/SayHello.git
 cd sayhello
 bash sayhello.sh
 ```
